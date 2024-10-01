@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/vikas-dixit-2846b21b9/">Vikas</a> </h1>
 
-<!--
-**Vd7905/Vd7905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- Adding Header Elements -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/vikas-dixit-2846b21b9/">LinkedIn</a> - 
+  <a href="">Twitter</a> -
+  <a href="">Website</a> -
+ 
+</p>
+
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Web Devloper | Contributer @girlscript <br>
+⚡ Check my ✨ https://codolio.com/profile/FIdAiGCc<br>
+📫 How to reach me: vikasdixit7905@gmail.com<br>
+
+<!--- Adding Tech Stack open Section -->
+
+
+
+
+
