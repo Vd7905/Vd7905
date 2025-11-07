@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 # 💫 About Me:
-👨🏻‍💻 About Me ✨ MERN | Contributor @girlscript<br>⚡ Check my ✨ https://codolio.com/profile/FIdAiGCc<br>📫 How to reach me: vikasdixit7905@gmail.com
+👨🏻‍💻 About Me ✨ MERN | ML | DevOps | Contributor @girlscript<br>⚡ Check my ✨ https://codolio.com/profile/FIdAiGCc<br>📫 How to reach me: vikasdixit7905@gmail.com
 
 
 ## 🌐 Socials:
